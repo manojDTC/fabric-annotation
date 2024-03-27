@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/fabric-annotation/static/css/main.1620745e.css",
+    "main.js": "/fabric-annotation/static/js/main.05fbca80.js",
+    "static/js/453.6cda5ece.chunk.js": "/fabric-annotation/static/js/453.6cda5ece.chunk.js",
+    "static/media/polygon.png": "/fabric-annotation/static/media/polygon.4e416843668f6ab32bdc.png",
+    "static/media/pan.png": "/fabric-annotation/static/media/pan.040e8228855eaa228631.png",
+    "index.html": "/fabric-annotation/index.html",
+    "main.1620745e.css.map": "/fabric-annotation/static/css/main.1620745e.css.map",
+    "main.05fbca80.js.map": "/fabric-annotation/static/js/main.05fbca80.js.map",
+    "453.6cda5ece.chunk.js.map": "/fabric-annotation/static/js/453.6cda5ece.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1620745e.css",
+    "static/js/main.05fbca80.js"
+  ]
+}
